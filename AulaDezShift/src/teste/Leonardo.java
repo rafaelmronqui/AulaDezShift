@@ -1,10 +1,10 @@
 package teste;
 
-public class Programa {
+public class Leonardo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Teste classe Programa ALTERAÇÃO.");
+		System.out.println("Oi");
 	}
 
 }
